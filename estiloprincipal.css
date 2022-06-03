@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+body {
+  background-color: #4059429f;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
+
+img {
+
+  width: 330px;
+  height: 280px;
+  padding: 30px;;
+
+  
+
+}
+
+
+
+
+
+main {
+  background-color: #3f5e4994;
+  width: 750px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.529);
+}
+
+
+h1 {
+  text-transform: uppercase;
+  color: #3f5e49c5;
+}
+
+p {
+  color: aliceblue;
+  text-align: justify;
+}
+
+a {
+  color: #3f5f49c5;
+
+  text-transform: none;
+
+
+
+
+
+}
+
+h2 {
+  text-transform: uppercase;
+  color: azure;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+li {
+  color: aliceblue;
+}
